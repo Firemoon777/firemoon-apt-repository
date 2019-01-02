@@ -2,11 +2,11 @@ Package: bash-dhcp-server
 Version: 1.0
 Architecture: all
 Maintainer: Vladimir Turov
-Depends: netcat-openbsd
+Depends: netcat-openbsd (>= 1.130)
 Filename: ./packages/bash-dhcp-server.deb
-Size: 2704
-MD5sum: 6961fb094bbac95505e606e8b510d19f
-SHA1: f870047a8e6118dee99a6c7463671e1ef10afeab
-SHA256: f3a9a4abf3f73087e76bde28f5fe9e417fa5eadd9c84e84f66a1a8838a6625dd
+Size: 2718
+MD5sum: 069b43e3b812d3cea8801f27bf45fd42
+SHA1: fa23ca82de2c3702c92f5c162f4ac21f0bc9ce6d
+SHA256: 4867105deb6d6935e63e654bfd90d9f0447af7641a81e92e9239c9990c93a4d8
 Description: bash-based dhcp-server
 
