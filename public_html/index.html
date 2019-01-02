@@ -1,0 +1,15 @@
+<html>
+	<title>Firemoon's APT Repository</title>
+	<meta charset="utf8"/>
+
+	<body>
+		<h1>Firemoon's APT Repository</h1>
+		This repository created for easy distribution of Firemoon's hand-made tools.<br>
+		<br>
+		Add it to your repositories:<br>
+		<br>
+		echo 'deb http://apt.f1remoon.com/ ./' | sudo tee -a /etc/apt/sources.list<br>
+		wget -q -O - 'http://apt.f1remoon.com/pubkey' | sudo apt-key add -<br>
+		sudo apt update<br>
+	</body>
+</html>
