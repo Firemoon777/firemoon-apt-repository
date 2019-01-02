@@ -4,4 +4,4 @@ Codename: xenial
 Architectures: amd64
 Components: main
 Description: Firemoon's APT repository
-SignWith: D1D9A37736CD3FB5DCC074DB6EB170265718670C
+SignWith: 6EB170265718670C
