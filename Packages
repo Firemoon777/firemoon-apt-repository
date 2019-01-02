@@ -3,7 +3,7 @@ Architecture: all
 Version: 1.0
 Maintainer: Vladimir Turov
 Depends: netcat-openbsd
-Filename: packages/bash-dhcp-server.deb
+Filename: public_html/packages/bash-dhcp-server.deb
 Size: 2704
 MD5sum: 6961fb094bbac95505e606e8b510d19f
 SHA1: f870047a8e6118dee99a6c7463671e1ef10afeab
