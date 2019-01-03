@@ -10,3 +10,31 @@ SHA1: fa23ca82de2c3702c92f5c162f4ac21f0bc9ce6d
 SHA256: 4867105deb6d6935e63e654bfd90d9f0447af7641a81e92e9239c9990c93a4d8
 Description: bash-based dhcp-server
 
+Package: netcat-openbsd
+Version: 1.130-3
+Architecture: amd64
+Maintainer: Aron Xu <aron@debian.org>
+Installed-Size: 87
+Depends: libbsd0 (>= 0.2.0), libc6 (>= 2.15)
+Breaks: netcat (<< 1.10-35)
+Replaces: netcat (<< 1.10-35)
+Provides: netcat
+Filename: ./netcat-openbsd_1.130-3_amd64.deb
+Size: 38206
+MD5sum: d43214cffc372c7193d65cfe1bf7ed74
+SHA1: ec2278f37387db431d6dbc8062c027e349024334
+SHA256: 6df0cad6733cc57fc048338946fb786d1d3e8aa64155b6b38918ed4af6197151
+Section: net
+Priority: important
+Description: TCP/IP swiss army knife
+ A simple Unix utility which reads and writes data across network
+ connections using TCP or UDP protocol.  It is designed to be a reliable
+ "back-end" tool that can be used directly or easily driven by other
+ programs and scripts. At the same time it is a feature-rich network
+ debugging and exploration tool, since it can create almost any kind of
+ connection you would need and has several interesting built-in
+ capabilities.
+ .
+ This package contains the OpenBSD rewrite of netcat, including support
+ for IPv6, proxies, and Unix sockets.
+

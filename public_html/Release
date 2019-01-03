@@ -5,10 +5,10 @@ Architectures: amd64
 Components: main
 Description: Firemoon's APT repository
 SignWith: 6EB170265718670C
-Date: Wed, 02 Jan 2019 16:37:57 +0000
+Date: Thu, 03 Jan 2019 14:11:02 +0000
 MD5Sum:
- 56a3ff0ae020c7ea7a29e99e716f6c7a              297 Packages.gz
- 84701c189e075e35d79baaf8113ab163              370 Packages
+ 4854b5bda6ced93205bbc28fe8b1ff51              883 Packages.gz
+ 79354bc2af7622f69b6e7273f5e3f83d             1438 Packages
 SHA256:
- c2ab68c23f406bdc319e3b7e8e4c19c662709400967fd9be3e4159c7da5ab0ed              297 Packages.gz
- 37f05c7270eee95f8fa866df6067ffc974cfdb5db4479f8ec66199bd89aab44b              370 Packages
+ 987cee78076fbd2a643672f4aea47b43cb0a5fe280f3d7c022042d1337ae03a2              883 Packages.gz
+ 9c9cd3514bc0c5bb0c39478f4d028da207ca068bba8f3208ce30e7f7bb79f1e5             1438 Packages
