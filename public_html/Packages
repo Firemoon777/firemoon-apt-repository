@@ -11,15 +11,15 @@ SHA256: e7b34e68d61aef7f5b266cc0879d66df4fbde1ad82406941ae2d91d8b97e37d3
 Description: bash-based dhcp-server
 
 Package: ipmi-autosetup
-Version: 1.1
+Version: 1.2
 Architecture: all
 Maintainer: Vladimir Turov
 Depends: bash-dhcp-server, curl, ipmitool
 Filename: ./packages/ipmi-autosetup.deb
-Size: 3066
-MD5sum: e7567875aade43dec98ca30d91aa0cb8
-SHA1: 75d99b3c456edbbb62da0b100bb270bc2008b519
-SHA256: 509a0665466e198a2612c8f2098c814b2765f70445da11061ee36d387c3a2def
+Size: 3090
+MD5sum: 7d9aad10d24da52b8ffbe45aa4709fc5
+SHA1: 5b2bece4254285377090399a1f31219191ea9f5e
+SHA256: 127f8c2faa825698ddf0eb2f9bc943389db699c01aeb551791a5a1d9437297b6
 Description: selectel ipmi-based autosetup
 
 Package: netcat-openbsd
